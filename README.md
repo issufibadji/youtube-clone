@@ -21,7 +21,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/youtub-clone?style=flat-square">
 </p>
 
-![youtub-clone](https://github.com/issufibadji/youtub-clone/blob/master/youtub-clone.png)
+![youtub-clone](https://github.com/issufibadji/youtube-clone/blob/master/youtubeclone.png)
 
 ## :book: Sobre
 
@@ -32,7 +32,7 @@ O **youtub-clone**
 
 O projeto está hospedado no vercel app
 
-> https://youtub-clone.vercel.app/
+> https://youtubeclone-blush.vercel.app/
 
 ## :rocket: Tecnologias
 
