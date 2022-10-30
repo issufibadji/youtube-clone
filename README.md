@@ -26,7 +26,7 @@
 ## :book: Sobre
 
 O **youtub-clone**
-é um projeto de playlist da misica Guiné-Bissau , que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [dribbble](dribbble.com)
+é um projeto de clone de youtube , que foi desenvolvido durante o meu treinamento de de JavaScript, inspirado no layout de [youtube](https://www.youtube.com/)
 
 ## :cloud: Deploy
 
