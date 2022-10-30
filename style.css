@@ -207,7 +207,6 @@ body {
     display: grid;
     justify-content: space-between;
     grid-template-columns: repeat(2, 25%);
-    grid-template-rows: auto auto auto;
     grid-gap: 20px 5px;
     overflow-x: hidden;
 }
@@ -215,6 +214,15 @@ body {
 .video {
     min-height: 250px;
     height: auto;
+    display: grid;
+    flex-direction: row-reverse;
+    gap: 5.2rem;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+    grid-template-columns: auto auto auto;
+    grid-column-gap: 50px;
+    grid-row-gap: 10px;
+    padding: 10px;
 }
 
 .thumbnail {
